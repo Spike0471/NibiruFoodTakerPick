@@ -1,0 +1,2 @@
+MainPackage=E:\Visual Studio Workspace\NibiruOrderApp\NibiruOrderApp\bin\x64\Release\NibiruOrderApp_1.0.2.0_x64.appx
+SymbolPackage=E:\Visual Studio Workspace\NibiruOrderApp\NibiruOrderApp\AppPackages\NibiruOrderApp_1.0.2.0_Test\NibiruOrderApp_1.0.2.0_x64.appxsym
